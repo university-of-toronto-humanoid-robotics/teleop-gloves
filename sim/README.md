@@ -32,6 +32,7 @@ pip install -r requirements.txt
 ```
 git clone https://github.com/google-deepmind/mujoco_menagerie.git
 ```
+might take a while. downloads collection of models from google deepmind 
 
 ## Step 5: Run the sim
 
@@ -39,8 +40,16 @@ git clone https://github.com/google-deepmind/mujoco_menagerie.git
 python -m mujoco.viewer --mjcf=mujoco_menagerie/unitree_g1/scene.xml
 ```
 
-A window with the G1 should open
+A window with the G1 should open BUT the stock G1 hand is rigid (no finger joints) !
 
-## Note
+Alternatively you can run: 
+```
+python -m mujoco.viewer --mjcf=mujoco_menagerie/unitree_g1/scene_with_hands.xml
+```
+but these hands have 3 fingers. 
 
-The stock G1 hand is rigid (no finger joints) !
+For a standalone hand you can try shadow hand model: 
+```
+python -m mujoco.viewer --mjcf=mujoco_menagerie/shadow_hand/right_hand.xml   
+```
+
