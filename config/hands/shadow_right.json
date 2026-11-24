@@ -1,0 +1,134 @@
+{
+  "enabled": true,
+  "model": "shadow-hand",
+  "side": "right",
+  "revision": "1",
+  "source": "https://github.com/google-deepmind/mujoco_menagerie/tree/main/shadow_hand/right_hand.xml",
+  "controls": [
+    {
+      "name": "rh_A_THJ5",
+      "unit": "rad",
+      "min": -1.047199,
+      "max": 1.047199,
+      "a": 0,
+      "b": 1.047199,
+      "weights": {
+        "thumb_across": 1
+      }
+    },
+    {
+      "name": "rh_A_THJ4",
+      "unit": "rad",
+      "min": 0.0,
+      "max": 1.22173,
+      "a": 0,
+      "b": 1.2217,
+      "weights": {
+        "thumb_mcp_deg": 1
+      }
+    },
+    {
+      "name": "rh_A_THJ1",
+      "unit": "rad",
+      "min": -0.261799,
+      "max": 1.5708,
+      "a": 0,
+      "b": 1.5708,
+      "weights": {
+        "thumb_ip_deg": 1
+      }
+    },
+    {
+      "name": "rh_A_FFJ3",
+      "unit": "rad",
+      "min": -0.261799,
+      "max": 1.5708,
+      "a": 0,
+      "b": 1.5708,
+      "weights": {
+        "index_mcp_deg": 1
+      }
+    },
+    {
+      "name": "rh_A_FFJ0",
+      "unit": "rad",
+      "min": 0.0,
+      "max": 3.1415,
+      "a": 0,
+      "b": 3.1415,
+      "weights": {
+        "index_pip_deg": 1,
+        "index_dip_deg": 1
+      }
+    },
+    {
+      "name": "rh_A_MFJ3",
+      "unit": "rad",
+      "min": -0.261799,
+      "max": 1.5708,
+      "a": 0,
+      "b": 1.5708,
+      "weights": {
+        "middle_mcp_deg": 1
+      }
+    },
+    {
+      "name": "rh_A_MFJ0",
+      "unit": "rad",
+      "min": 0.0,
+      "max": 3.1415,
+      "a": 0,
+      "b": 3.1415,
+      "weights": {
+        "middle_pip_deg": 1,
+        "middle_dip_deg": 1
+      }
+    },
+    {
+      "name": "rh_A_RFJ3",
+      "unit": "rad",
+      "min": -0.261799,
+      "max": 1.5708,
+      "a": 0,
+      "b": 1.5708,
+      "weights": {
+        "ring_mcp_deg": 1
+      }
+    },
+    {
+      "name": "rh_A_RFJ0",
+      "unit": "rad",
+      "min": 0.0,
+      "max": 3.1415,
+      "a": 0,
+      "b": 3.1415,
+      "weights": {
+        "ring_pip_deg": 1,
+        "ring_dip_deg": 1
+      }
+    },
+    {
+      "name": "rh_A_LFJ3",
+      "unit": "rad",
+      "min": -0.261799,
+      "max": 1.5708,
+      "a": 0,
+      "b": 1.5708,
+      "weights": {
+        "pinky_mcp_deg": 1
+      }
+    },
+    {
+      "name": "rh_A_LFJ0",
+      "unit": "rad",
+      "min": 0.0,
+      "max": 3.1415,
+      "a": 0,
+      "b": 3.1415,
+      "weights": {
+        "pinky_pip_deg": 1,
+        "pinky_dip_deg": 1
+      }
+    }
+  ]
+}
