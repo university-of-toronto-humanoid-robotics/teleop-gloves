@@ -1,0 +1,4 @@
+{"schema_version":1,"timestamp_ns":1000000000,"profile_id":"generic-five-finger-demo:right:1:960baee36fe7d9fd","calibration_id":"66b9f093c961ba4c","tracking_valid":true,"q_target":[0,0,0,0,0,0]}
+{"schema_version":1,"timestamp_ns":1033000000,"profile_id":"generic-five-finger-demo:right:1:960baee36fe7d9fd","calibration_id":"66b9f093c961ba4c","tracking_valid":true,"q_target":[0.5,0.5,0.5,0.5,0.5,0.5]}
+{"schema_version":1,"timestamp_ns":1066000000,"profile_id":"generic-five-finger-demo:right:1:960baee36fe7d9fd","calibration_id":"66b9f093c961ba4c","tracking_valid":true,"q_target":[1,1,1,1,1,1]}
+{"schema_version":1,"timestamp_ns":1099000000,"profile_id":"generic-five-finger-demo:right:1:960baee36fe7d9fd","calibration_id":"66b9f093c961ba4c","tracking_valid":false,"q_target":null}

@@ -1,0 +1,6 @@
+{
+  "enabled": false, "model": null, "side": null, "revision": null, "source": null,
+  "controls": [
+    {"name":null,"unit":null,"min":null,"max":null,"a":null,"b":null,"weights":{}}
+  ]
+}

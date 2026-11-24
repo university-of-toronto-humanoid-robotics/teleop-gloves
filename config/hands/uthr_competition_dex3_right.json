@@ -1,0 +1,14 @@
+{
+  "enabled": true, "model": "uthr-competition-dex3", "side": "right", "revision": "1",
+  "source": "https://github.com/google-deepmind/mujoco_menagerie/blob/cda5236f98383f6fbaa4820c6b18dba892cd087f/unitree_g1/g1_with_hands.xml",
+  "simulator": "https://github.com/university-of-toronto-humanoid-robotics/Humanoid-Competition/blob/1c9708427fbf5c95185c411c98328c946f7dd276/manipulation/sim/g1_manip/robot.py",
+  "controls": [
+    {"name":"right_hand_thumb_0_joint","unit":"rad","min":-1.0472,"max":1.0472,"a":0,"b":1.0472,"weights":{"thumb_across":1}},
+    {"name":"right_hand_thumb_1_joint","unit":"rad","min":-1.0472,"max":0.724312,"a":0,"b":-1.0472,"weights":{"thumb_mcp_deg":1}},
+    {"name":"right_hand_thumb_2_joint","unit":"rad","min":-1.74533,"max":0,"a":0,"b":-1.74533,"weights":{"thumb_ip_deg":1}},
+    {"name":"right_hand_index_0_joint","unit":"rad","min":0,"max":1.5708,"a":0,"b":1.5708,"weights":{"index_mcp_deg":1}},
+    {"name":"right_hand_index_1_joint","unit":"rad","min":0,"max":1.74533,"a":0,"b":1.74533,"weights":{"index_pip_deg":1,"index_dip_deg":1}},
+    {"name":"right_hand_middle_0_joint","unit":"rad","min":0,"max":1.5708,"a":0,"b":1.5708,"weights":{"middle_mcp_deg":1}},
+    {"name":"right_hand_middle_1_joint","unit":"rad","min":0,"max":1.74533,"a":0,"b":1.74533,"weights":{"middle_pip_deg":1,"middle_dip_deg":1}}
+  ]
+}
