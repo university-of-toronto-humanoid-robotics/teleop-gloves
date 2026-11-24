@@ -1,0 +1,129 @@
+{
+  "operator": "demo",
+  "source": "synthetic",
+  "side": "right",
+  "pose_pairs": {
+    "index_mcp_deg": [
+      "open",
+      "curled"
+    ],
+    "index_pip_deg": [
+      "open",
+      "curled"
+    ],
+    "index_dip_deg": [
+      "open",
+      "curled"
+    ],
+    "middle_mcp_deg": [
+      "open",
+      "curled"
+    ],
+    "middle_pip_deg": [
+      "open",
+      "curled"
+    ],
+    "middle_dip_deg": [
+      "open",
+      "curled"
+    ],
+    "ring_mcp_deg": [
+      "open",
+      "curled"
+    ],
+    "ring_pip_deg": [
+      "open",
+      "curled"
+    ],
+    "ring_dip_deg": [
+      "open",
+      "curled"
+    ],
+    "pinky_mcp_deg": [
+      "open",
+      "curled"
+    ],
+    "pinky_pip_deg": [
+      "open",
+      "curled"
+    ],
+    "pinky_dip_deg": [
+      "open",
+      "curled"
+    ],
+    "thumb_mcp_deg": [
+      "open",
+      "thumb_bend"
+    ],
+    "thumb_ip_deg": [
+      "open",
+      "thumb_bend"
+    ],
+    "thumb_across": [
+      "open",
+      "thumb_opposed"
+    ]
+  },
+  "endpoints": {
+    "index_mcp_deg": [
+      0,
+      90
+    ],
+    "index_pip_deg": [
+      0,
+      90
+    ],
+    "index_dip_deg": [
+      0,
+      90
+    ],
+    "middle_mcp_deg": [
+      0,
+      90
+    ],
+    "middle_pip_deg": [
+      0,
+      90
+    ],
+    "middle_dip_deg": [
+      0,
+      90
+    ],
+    "ring_mcp_deg": [
+      0,
+      90
+    ],
+    "ring_pip_deg": [
+      0,
+      90
+    ],
+    "ring_dip_deg": [
+      0,
+      90
+    ],
+    "pinky_mcp_deg": [
+      0,
+      90
+    ],
+    "pinky_pip_deg": [
+      0,
+      90
+    ],
+    "pinky_dip_deg": [
+      0,
+      90
+    ],
+    "thumb_mcp_deg": [
+      0,
+      90
+    ],
+    "thumb_ip_deg": [
+      0,
+      90
+    ],
+    "thumb_across": [
+      -0.8,
+      0.6
+    ]
+  }
+}

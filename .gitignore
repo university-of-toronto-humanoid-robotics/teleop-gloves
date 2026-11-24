@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+/models/*.task
+/models/*.task.part
+/recordings/
+/calibration/*.json
+!/calibration/demo-synthetic-right.json

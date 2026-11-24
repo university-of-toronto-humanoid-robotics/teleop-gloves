@@ -1,0 +1,4 @@
+{"schema_version":1,"timestamp_ns":1000000000,"profile_id":"uthr-competition-dex3:right:1:556e9574bdf31006","calibration_id":"66b9f093c961ba4c","tracking_valid":true,"q_target":[0.0,0.0,0,0,0,0,0]}
+{"schema_version":1,"timestamp_ns":1033000000,"profile_id":"uthr-competition-dex3:right:1:556e9574bdf31006","calibration_id":"66b9f093c961ba4c","tracking_valid":true,"q_target":[0.5236,-0.5236,-0.872665,0.7854,0.872665,0.7854,0.872665]}
+{"schema_version":1,"timestamp_ns":1066000000,"profile_id":"uthr-competition-dex3:right:1:556e9574bdf31006","calibration_id":"66b9f093c961ba4c","tracking_valid":true,"q_target":[1.0472,-1.0472,-1.74533,1.5708,1.74533,1.5708,1.74533]}
+{"schema_version":1,"timestamp_ns":1099000000,"profile_id":"uthr-competition-dex3:right:1:556e9574bdf31006","calibration_id":"66b9f093c961ba4c","tracking_valid":false,"q_target":null}
